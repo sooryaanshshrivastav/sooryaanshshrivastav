@@ -29,6 +29,5 @@ Beyond Academics, Sooryaansh has a professional background in martial arts, part
 ![](https://github-contributor-stats.vercel.app/api?username=sooryaanshshrivastav&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sooryaanshshrivastav&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
