@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Sooryaansh Shrivastav</h1>
-<h3 align="justified">Sooryaansh Shrivastav is a dedicated individual pursuing his undergraduate degree in BTech Computer Science and Enginnering with specialisation in Health Informatics with a deep interest in the utilization of technology to solve the real-world problems and currently exploring the fields of Data Science, machine Learning and Computer Vision.
+<h3 align="justify">Sooryaansh Shrivastav is a dedicated individual pursuing his undergraduate degree in BTech Computer Science and Enginnering with specialisation in Health Informatics with a deep interest in the utilization of technology to solve the real-world problems and currently exploring the fields of Data Science, machine Learning and Computer Vision.
 
 With the primary interests in the following field and a curious mindset along with the determination to excel, Sooryaansh seeks various oppurtunities to learn and apply the skills to contribute meaningfully to projects that utilizes the field of data and artificial intellegence. 
 
